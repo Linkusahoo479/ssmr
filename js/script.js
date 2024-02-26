@@ -24,7 +24,7 @@ function pauseAudio() {
   event.stopPropagation();
 }
 
-var countDownDate = new Date("Feb 28, 2024 00:00:00").getTime();
+var countDownDate = new Date("Feb 28, 2024 18:00:00").getTime();
 
 var x = setInterval(function () {
   var now = new Date().getTime();
